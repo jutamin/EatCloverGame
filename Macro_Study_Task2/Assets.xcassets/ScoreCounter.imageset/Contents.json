@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "counter_coins.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
